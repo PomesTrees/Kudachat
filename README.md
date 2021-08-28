@@ -1,6 +1,6 @@
 # Banorte
 
-## Itroduccion
+## Introducción
 Repositorio para el reto de HACKATON MTY 2021.
 
 ## Equipo
